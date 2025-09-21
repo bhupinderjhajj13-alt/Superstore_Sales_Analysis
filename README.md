@@ -19,6 +19,10 @@ Overview 📝 -
 ​Key Insight: There is a clear negative correlation between discount and profit. While small discounts (0-20%) can still result in profitable sales, higher discounts are strongly associated with a decrease in profit, often leading to a financial loss on the transaction.
 ​Recommendation: The company should re-evaluate its discount strategy, particularly for discounts exceeding 20%, to ensure sustainable profitability.
 ​🛠️ Tools & Libraries
+```bash
+git clone https://your-repository-url.git
+```
+
 ​This analysis was conducted using Python and the following libraries:
 ​Pandas: For data manipulation and analysis.  
 ​Matplotlib & Seaborn: For data visualization and creating plots.
